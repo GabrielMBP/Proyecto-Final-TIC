@@ -18,13 +18,13 @@ Una MV es la emulación de un sistema informático, una "computadora dentro de u
 
 Son el software esencial que permite la creación y ejecución de MV, actuando como una capa intermedia entre el hardware físico y los sistemas operativos invitados. Existen dos tipos:
 
-- [Tipo 1 (Bare-Metal o Nativo) ⬇️](vm_vs_docker_benchmark/informaciónCompleta/VM/Hipervisores/Tipo1.md)
+ - [Tipo 1 (Bare-Metal o Nativo) ⬇️](vm_vs_docker_benchmark/informaciónCompleta/VM/Hipervisores/Tipo1.md)
 
-Se instalan directamente sobre el hardware físico y ofrecen alto rendimiento y baja latencia. Ejemplos incluyen VMware ESXi y Microsoft Hyper-V.
+ Se instalan directamente sobre el hardware físico y ofrecen alto rendimiento y baja latencia. Ejemplos incluyen VMware ESXi y Microsoft Hyper-V.
 
-- [Tipo 2 (Hosted o Alojado) ⬇️](vm_vs_docker_benchmark/informaciónCompleta/VM/Hipervisores/Tipo2.md)
+ - [Tipo 2 (Hosted o Alojado) ⬇️](vm_vs_docker_benchmark/informaciónCompleta/VM/Hipervisores/Tipo2.md)
 
-Se ejecutan como una aplicación dentro de un sistema operativo host convencional. Ejemplos son VMware Workstation y Oracle VirtualBox.
+ Se ejecutan como una aplicación dentro de un sistema operativo host convencional. Ejemplos son VMware Workstation y Oracle VirtualBox.
 
 # [Docker ⬇️](vm_vs_docker_benchmark/informaciónCompleta/Docker/OrigenDocker.md)
 
