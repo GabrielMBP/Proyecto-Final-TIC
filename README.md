@@ -1,8 +1,11 @@
-# Proyecto-Final-TIC
+## Proyecto-Final-TIC
 
-Las máquinas virtuales (MV) y Docker son tecnologías que optimizan el uso de recursos y proporcionan entornos aislados para aplicaciones, aunque con enfoques distintos.
+#[Máquinas virtuales (MV)](vm_vs_docker_benchmark\Info_Completa\VM\OrigenVM.md) y [Docker](vm_vs_docker_benchmark\Info_Completa\Docker\OrigenDocker.md)
 
-Máquinas Virtuales (MV)
+Son tecnologías que optimizan el uso de recursos y proporcionan entornos aislados para aplicaciones, aunque con enfoques distintos.
+
+- #[Máquinas Virtuales (MV):](vm_vs_docker_benchmark\Info_Completa\VM\OrigenVM.md)
+
 Las MV surgieron en la década de 1960 para optimizar el uso de los costosos recursos de los mainframes. Permiten que múltiples entornos operativos compartan un mismo hardware físico mediante la abstracción del hardware. Un hito fue el sistema CP-40 y CP-67 de IBM, que permitió ejecutar múltiples sistemas operativos en un solo mainframe.
 
 
