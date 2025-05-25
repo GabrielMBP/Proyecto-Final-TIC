@@ -1,3 +1,7 @@
+[Que son las Máquinas Virtuales ⏮️](QueSonVM.md)
+
+## Importancia de las Máquinas Virtuales
+
 La importancia de las máquinas virtuales se ha expandido exponencialmente desde sus inicios en los mainframes hasta convertirse en una piedra angular de la infraestructura informática moderna. Su capacidad para abstraer el hardware subyacente y proporcionar entornos aislados ha generado beneficios significativos en diversos dominios.
 
 En primer lugar, la virtualización ha revolucionado la eficiencia de los centros de datos. Al permitir que múltiples servidores virtuales se ejecuten en un solo servidor físico, las empresas pueden reducir drásticamente el número de máquinas físicas necesarias. Esto no solo disminuye los costos de hardware, sino también el consumo de energía y la necesidad de espacio físico, lo que tiene un impacto directo en la reducción de la huella de carbono. Como afirman VMware (2007) en su informe técnico sobre virtualización, "la consolidación de servidores a través de la virtualización puede reducir el número de servidores físicos hasta en una proporción de 10:1 o más, lo que resulta en ahorros significativos en costos de capital y operativos, incluyendo energía y refrigeración" (p. 2). Esta consolidación ha sido clave para la evolución hacia infraestructuras más sostenibles y rentables.
@@ -5,3 +9,5 @@ En primer lugar, la virtualización ha revolucionado la eficiencia de los centro
 En segundo lugar, las máquinas virtuales son cruciales para la gestión de la carga de trabajo y la flexibilidad operativa. La capacidad de aprovisionar, migrar y desaprovisionar máquinas virtuales rápidamente permite a las organizaciones responder ágilmente a las demandas cambiantes del negocio. Las aplicaciones pueden ser aisladas en sus propias máquinas virtuales, minimizando los conflictos y mejorando la estabilidad del sistema. Además, la portabilidad de las MV facilita la migración de aplicaciones entre diferentes servidores físicos sin interrupción del servicio, lo que es fundamental para la recuperación ante desastres y la continuidad del negocio.
 
 Finalmente, la seguridad y el aislamiento son otros pilares de la importancia de las MV. Al ejecutar aplicaciones en entornos virtuales aislados, las fallas o vulnerabilidades en una MV no suelen afectar a otras MV o al sistema host. Esto crea una barrera de seguridad robusta, permitiendo, por ejemplo, que las aplicaciones de producción y desarrollo coexistan en el mismo hardware físico de forma segura. La restauración rápida de máquinas virtuales a un estado anterior también mejora la resiliencia frente a ataques cibernéticos o errores del sistema.
+
+[Hipervisores ⏭️](HipervisoresVM.md)
