@@ -1,4 +1,4 @@
-[Hipervisores ⏮️](vm_vs_docker_benchmark/informaciónCompleta/VM/HipervisoresVM.md)
+[Hipervisores ⏮️](../HipervisoresVM.md)
 
 ## Hipervisores de Tipo 1
 
