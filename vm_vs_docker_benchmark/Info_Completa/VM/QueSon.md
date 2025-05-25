@@ -1,4 +1,4 @@
-[#Importancia de las Máquinas Virtuales ⬅️](vm_vs_docker_benchmark/Info_Completa/VM/OrigenVM.md)
+[#Importancia de las Máquinas Virtuales ⬅️](OrigenVM.md)
 
 ## Que son las Máquinas Virtuales
 
