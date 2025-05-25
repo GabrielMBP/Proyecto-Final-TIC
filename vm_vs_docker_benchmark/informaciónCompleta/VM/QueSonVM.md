@@ -10,4 +10,4 @@ En un sentido más amplio, las máquinas virtuales representan un paradigma de c
 
 La capacidad de escalar recursos de manera elástica y de aislar a los clientes entre sí en una infraestructura compartida es intrínseca al modelo de nube, y todo esto se logra gracias a la tecnología de virtualización. Por lo tanto, el significado de las MV se entrelaza con la propia definición de la computación moderna, que busca la optimización de recursos, la agilidad y la capacidad de adaptación.
 
-[#Hipervisores ➡️](QueSon.md)
+[Hipervisores ➡️](HipervisoresVM.md)
