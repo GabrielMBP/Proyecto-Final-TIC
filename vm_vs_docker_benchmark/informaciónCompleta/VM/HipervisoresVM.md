@@ -6,6 +6,6 @@ Para comprender plenamente el funcionamiento de las máquinas virtuales, es fund
 
 La función principal del hipervisor es aislar los sistemas operativos invitados entre sí y del hardware subyacente, al mismo tiempo que gestiona y distribuye los recursos del host de manera eficiente. Esto asegura que un fallo o un problema en una máquina virtual no afecte el rendimiento o la estabilidad de otras máquinas virtuales ni del sistema físico. Existen dos tipos principales de hipervisores, clasificados por su arquitectura y su relación con el hardware del host:
 
-- [#Hipervisores de Tipo 1 ⬇️](Hipervisores/Tipo1.md)
+- [Hipervisores de Tipo 1 ⬇️](Hipervisores/Tipo1.md)
 
-- [#Hipervisores de Tipo 2 ⬇️](Hipervisores/Tipo2.md)
+- [Hipervisores de Tipo 2 ⬇️](Hipervisores/Tipo2.md)
