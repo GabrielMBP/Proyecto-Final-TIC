@@ -1,4 +1,4 @@
-[Hipervisores ⏮️](Hipervisores.md)
+[Hipervisores ⏮️](VM/Hipervisores.md)
 
 ## Hipervisores de Tipo 1
 
