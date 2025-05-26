@@ -4,6 +4,8 @@
 
 Las diferencias entre Máquinas Virtuales y Docker son las que definen sus casos de uso óptimos. Estas diferencias radican principalmente en la capa de virtualización, el consumo de recursos, el tiempo de arranque y la granularidad del aislamiento.
 
+![alt text](TablaDiferencias.png)
+
 Las comunidades en foros como Reddit y GitHub a menudo discuten cuándo usar una tecnología u otra, y las opiniones resaltan estas diferencias prácticas:
 
 - **Rendimiento y Ligereza:** Una de las diferencias más citadas es el rendimiento y la ligereza de los contenedores. Un usuario en un hilo de Reddit sobre "VMs vs. Docker" comentó: "Para microservicios o aplicaciones que necesitan escalar rápidamente, Docker es el rey. Puedes lanzar cientos de contenedores en la misma máquina donde solo podrías tener unas pocas VMs. El overhead es mínimo." (Reddit, r/sysadmin, 2023). Otro usuario en GitHub, discutiendo la implementación de un CI/CD, señaló: "El tiempo de spin-up de los contenedores es un game-changer para CI/CD. No podemos esperar minutos para que una VM se inicie para cada test." (GitHub Issues, CI/CD discussion, 2024).

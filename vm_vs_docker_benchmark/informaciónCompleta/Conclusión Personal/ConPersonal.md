@@ -1,0 +1,4 @@
+## Conclusión Personal
+
+Para este proyecto, mi decisión fue comparar Civilization VI en diferentes entornos virtualizados. Buscaba un proyecto con un potencial de escalabilidad y complejidad significativamente mayor, algo que un videojuego como Civilization VI, con su capacidad teórica de extenderse hasta el "infinito" en términos de progresión y recursos, ofrecía de manera única. Aunque en la práctica esta escalabilidad ilimitada no se materializa por completo debido a las limitaciones de hardware y software, la naturaleza del juego lo convierte en un excelente caso de estudio para evaluar el rendimiento y la estabilidad en entornos virtualizados bajo carga sostenida y progresiva. Esta elección me permitió explorar las implicaciones del rendimiento de hardware en la virtualización de una manera mucho más profunda que un simple script o aplicación de prueba.
+
