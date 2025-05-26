@@ -10,3 +10,4 @@ Como señalan Merkel (2014) en su influyente artículo sobre la tecnología de c
 
 Esta diferencia fundamental, el compartir el kernel del host en lugar de virtualizarlo por completo, es lo que confiere a Docker su ligereza y eficiencia. La idea era simple pero revolucionaria: proporcionar un entorno de ejecución consistente desde el desarrollo hasta la producción, eliminando las inconsistencias y agilizando los ciclos de vida del software.
 
+[Importancia de Docker 📎](ImportanciaDocker.md)
