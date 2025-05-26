@@ -8,3 +8,5 @@ Las máquinas virtuales son la elección ideal cuando se necesita aislamiento co
 Por otro lado, Docker y los contenedores han emergido como la solución preferida para el desarrollo y despliegue de aplicaciones modernas, especialmente en arquitecturas de microservicios, entornos de DevOps y pipelines de CI/CD. Su ligereza, rapidez de arranque y eficiencia en el uso de recursos los hacen inigualables para empaquetar y escalar aplicaciones de forma ágil y consistente, aprovechando al máximo el hardware subyacente al compartir el kernel del host.
 
 En muchos entornos empresariales modernos, ambas tecnologías coexisten. Es común encontrar contenedores Docker ejecutándose dentro de máquinas virtuales. Las VMs proporcionan una capa de aislamiento y estandarización del hardware para los entornos de contenedores, mientras que los contenedores ofrecen agilidad y eficiencia dentro de esas VMs, lo que permite aprovechar lo mejor de ambos mundos.
+
+[Conclusión Personal 📎](../Conclusión_Personal/ConPersonal.md)

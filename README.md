@@ -73,4 +73,4 @@ Ambas tecnologías comparten objetivos como el aislamiento de aplicaciones, la p
 
 En muchos entornos modernos, ambas tecnologías coexisten. Es común ejecutar contenedores Docker dentro de máquinas virtuales, aprovechando lo mejor de ambos mundos: la capa de aislamiento de hardware de las MV y la agilidad y eficiencia de los contenedores.
 
-[Conlusión Personal 📎](vm_vs_docker_benchmark/informaciónCompleta/Conclusión%20Personal/ConPersonal.md)
+[Conlusión Personal 📎](vm_vs_docker_benchmark/informaciónCompleta/Conclusión_Personal/ConPersonal.md)
